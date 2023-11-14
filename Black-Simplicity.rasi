@@ -7,10 +7,10 @@
 
 configuration {
     display-combi: "";
-    display-drun: "";
+    display-drun: "󰀻";
     display-run: "";
-    display-window: "缾";
-    display-ssh: "";
+    display-window: "󱂬";
+    display-ssh: "󰌘";
     show-icons: true;
     sidebar-mode: true;
 }
